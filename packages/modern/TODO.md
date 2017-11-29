@@ -6,7 +6,7 @@
 
 - [x] Use the minimum versions in `webapp` to determine JS bundle.
 
-- [ ] Import different `core-js` polyfills in `ecmascript-runtime-client`
+- [x] Import different `core-js` polyfills in `ecmascript-runtime-client`
       depending on modern/legacy classification.
 
 - [ ] Create an `isobuild:web-browser-legacy` pseudopackage.
