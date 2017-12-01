@@ -20,7 +20,7 @@
 
 - [x] Use `web.browser.legacy` to handle `es5-shim` instead.
 
-- [ ] Use `web.browser.legacy` to handle SockJS instead?
+- [x] Use `web.browser.legacy` to handle SockJS instead.
 
 - [ ] Use different plugins in babel-compiler for `web.browser.legacy`.
 
